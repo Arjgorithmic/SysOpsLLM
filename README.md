@@ -4,7 +4,7 @@ current system config where project is build:<br>
 <p>
 >>>$neofetch<br>
             .-/+oossssoo+/-.               arjgorthmic@ArjgorthmicNode <br>
-        `:+ssssssssssssssssss+:`           --------------------------- <br>
+         :+ssssssssssssssssss+:`           --------------------------- <br>
       -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.4 LTS x86_64 <br>
     .ossssssssssssssssssdMMMNysssso.       Host: VivoBook_ASUSLaptop X412DA_X412DA 1.0 <br>
    /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.8.0-40-generic <br>
@@ -21,7 +21,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter <br>
    /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx (8) @ 2.10 <br>
     .ossssssssssssssssssdMMMNysssso.       GPU: AMD ATI Radeon Vega Series / Radeon Vega Mobile Series <br>
       -+sssssssssssssssssyyyssss+-         Memory: 4134MiB / 5869MiB <br>
-        `:+ssssssssssssssssss+:`<br>
+         :+ssssssssssssssssss+:`<br>
             .-/+oossssoo+/-.   <br>
 <br>
 </p>
