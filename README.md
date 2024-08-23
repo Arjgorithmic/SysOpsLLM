@@ -2,7 +2,6 @@
 This Project is to Build a System Operation admin LLM bot, runs on Linux<br>
 current system config where project is build:<br>
 <p>
- arjgorthmic@ArjgorthmicNode <br>
 OS: Ubuntu 22.04.4 LTS x86_64 <br>
 Host: VivoBook_ASUSLaptop X412DA_X412DA 1.0 <br>
 Kernel: 6.8.0-40-generic <br>
