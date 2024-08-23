@@ -1,6 +1,7 @@
 # SysOpsLLM
 This Project is to Build a System Operation admin LLM bot, runs on Linux<br>
 current system config where project is build:<br>
+<p>
 >>>$neofetch<br>
             .-/+oossssoo+/-.               arjgorthmic@ArjgorthmicNode <br>
         `:+ssssssssssssssssss+:`           --------------------------- <br>
@@ -23,3 +24,4 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter <br>
         `:+ssssssssssssssssss+:`<br>
             .-/+oossssoo+/-.   <br>
 <br>
+</p>
